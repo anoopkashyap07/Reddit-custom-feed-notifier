@@ -1,7 +1,8 @@
-[
-  {
-    "name": "WorkFeed",
-    "url": "https://www.reddit.com/user/freckleddemon/m/work/new/.json",
-    "keywords": ["[Hiring]", "task", "Virtual Assistant", "help"]
-  }
-]
+{
+  "feeds": [
+    {
+      "url": "https://www.reddit.com/r/YOUR_SUBREDDIT.json",
+      "keywords": ["[Hiring]", "YOUR_KEYWORD"]
+    }
+  ]
+}
