@@ -1,6 +1,6 @@
-# Reddit Telegram Bot
+# Reddit Telegram Alert Bot
 
-This Python script monitors a custom Reddit JSON feed and sends new posts (matching certain keywords) to a Telegram bot.
+This Python script monitors a custom Reddit JSON feed and sends new posts (matching certain keywords) as alerts to a Telegram bot.
 
 ## Setup
 
